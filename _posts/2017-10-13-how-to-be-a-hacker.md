@@ -6,7 +6,7 @@ title: How to Become a Hacker 读书笔记
 {{ page.title }}
 ================
 
-<p class="meta">13 Oct 20167- Shanghai</p>
+<p class="meta">13 Oct 2017- Shanghai</p>
 
 一部黑客帝国让很多人了解到黑客，如何做却不知如何下手，不抱期望的随意寻觅竟然有一位先驱Eric Steven Raymond写了How to的文章。区别于其他注重技术的教程类文章，本文着重描写hacker这个小圈子文化的信仰，方便圈子外的人加入，特别提到cracker骇客这群专门搞破坏活动的人群，力图撇清关系，然而尴尬的是中文语境里找不到合适的词语，来描述这类热爱技术，而又创造了Unix和Internet的分享社区文化。
 
